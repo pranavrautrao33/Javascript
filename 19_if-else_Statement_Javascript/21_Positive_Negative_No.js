@@ -6,5 +6,5 @@ if(p > 0)
 }
 else
 {
-    console.log("Number is Nigative");
+    console.log("Number is Negative");
 }
